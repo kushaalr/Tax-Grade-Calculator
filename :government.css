@@ -1,0 +1,18 @@
+﻿body {
+    background-color: cadetblue;
+}
+
+#title{
+    text-align:center;
+    margin-top:60px;
+    padding: 10px;
+    font-family: monospace;
+    color: white;
+    font-size:45px;
+    
+}
+
+#inputOutoutContainer{
+    text-align:center;
+    margin-top: 120px;
+}
